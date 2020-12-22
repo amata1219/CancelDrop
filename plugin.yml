@@ -1,0 +1,11 @@
+name: CancelDrop
+main: amata1219.cancel.drop.CancelDrop
+version: 1.0.0
+author: amata1219(Twitter@amata1219)
+
+commands:
+  cdrop:
+    description: main command.
+    usage: /<command>
+    permission: cancel.drop.cdrop
+    permission-message: You do not have permission.
